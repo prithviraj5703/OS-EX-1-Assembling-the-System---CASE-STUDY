@@ -1,4 +1,4 @@
-![268425580-587e8656-1991-4836-91fb-f7717430f38f](https://github.com/prithviraj5703/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/121418418/f95a6c72-81c2-4be2-b592-f486f3c81fc0)# OS-EX-1-Assembling-the-System---CASE-STUDY
+# OS-EX-1-Assembling-the-System---CASE-STUDY
 
 # AIM:
 
